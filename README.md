@@ -5,10 +5,6 @@ Fract'ol is a 42 project. The purpose of this project is to create fractal rende
 
 **MAC OS IS ONLY SUPPORTED**
 
-
-## Sources
-* https://linux.die.net/man/3/printf
-
 ## Installation
 
 Clone repository and then go into the created directory and run the following command:
